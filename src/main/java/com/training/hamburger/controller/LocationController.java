@@ -24,7 +24,7 @@ import com.training.hamburger.repository.LocationRepository;
 import com.training.hamburger.model.Location;
 
 /**
- * @author balaji
+ * @author Pranav
  *
  */
 @RestController
