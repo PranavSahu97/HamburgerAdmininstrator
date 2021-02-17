@@ -12,7 +12,7 @@ import org.springframework.stereotype.Repository;
 import com.training.hamburger.model.Location;
 
 /**
- * @author balaji
+ * @author Pranav
  *
  */
 @Repository
